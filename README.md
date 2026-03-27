@@ -59,8 +59,8 @@ Once you have the template with all subfolders, please do the following:
 1. In your repository, go to **Settings → Collaborators**.  
 2. Add your teammates’ GitHub **usernames**.  
 3. Add the following as **read or write collaborators** so they can monitor submissions:  
-   - Prof. Dr. Mehrdad Jalali's username: MehrdadJalali-AI
-   - Dr. Ghadeer Mobasher's username: mobashgr
+   - Prof. Dr. Mehrdad Jalali's username: `MehrdadJalali-AI`
+   - Dr. Ghadeer Mobasher's username: `mobashgr`
 
 ---
 
