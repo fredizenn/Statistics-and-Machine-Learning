@@ -1,12 +1,9 @@
 # Statistics and Machine Learning Module
 
-#### This template provides a pre-structured folder hierarchy for the *Statistics and Machine Learning* module, covering weeks 1 to 5. It is designed to streamline assignment management and ensure consistency in submissions.
+> This template provides a pre-structured folder hierarchy for the *Statistics and Machine Learning* module, covering Weeks 1 to 5. It is designed to streamline assignment management and ensure consistency in submissions. Please add your teammates as collaborators. This should be a private repository.
 ---
 ## 1. Features
-- **Weeks 1–4** each contain:  
-  - `Lecture-Assignments`: for exercises given during lectures  
-  - `Lab-Assignments`: for practical lab tasks  
-
+- **Weeks 1–4** each contain: `Lab-Assignments`: push the group in-lecture practical exercises.
 - **Week 5** contains:  
   - `Final-Project-Examination`: for the final project submission  
 
@@ -18,11 +15,8 @@
 ## 2. Repository Structure
 ```
 Week-1/
-  ├── Lecture-Assignments/
-  │     └── .gitkeep
-  └── Lab-Assignments/
-        └── .gitkeep
-
+  ├── Lab-Assignment/
+      └── .gitkeep
 ...
 
 Week-5/
@@ -83,10 +77,7 @@ git push -u origin main
 For each week:
 
 - navigate to the corresponding folder (e.g., week-1).
-- choose the appropriate subfolder:
-  - lecture-assignments
-  - lab-assignments
-- add your assignment files using a clear naming convention:
+- add your assignment files using a clear naming convention to `Lab-Assignments` directory:
 
 ```
 assignment_<number>_<short_description>.ipynb
@@ -96,7 +87,7 @@ assignment_<number>_<short_description>.py
 example:
 
 ```
-assignment_1_miniproject.ipynb
+week1_finalnotebook.ipynb
 ```
 ---
 
@@ -117,7 +108,4 @@ git push
 - Commit often to ensure all submissions are tracked.
 - Prof. Dr. Mehrdad Jalali and Dr. Ghadeer Mobasher will **monitor the team progress through GitHub**.
 - For Questions related to the Lectures, please contact [Prof. Dr. Mehrdad](mailto:mehrdad.jalali@srh-hochschulen.de).
-- For Questions related to the Labs, please contact [Dr. Ghadeer](mailto:ghadeer.mobasher@srh-hochschulen.de).
-
-
-
+- For Questions related to the Practical Lectures, please contact [Dr. Ghadeer](mailto:ghadeer.mobasher@srh-hochschulen.de).
